@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Alt text](/activity.svg)
 <img src="activity.svg">
 <!--
 **Tinku10/Tinku10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
