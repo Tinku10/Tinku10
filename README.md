@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="activity.svg">
+<img src="/Tinku10/Tinku10/blob/master/">
 <!--
 <!-- **Tinku10/Tinku10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
