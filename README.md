@@ -1,7 +1,7 @@
 ![Profile Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTinku10%2Fhit-counter)
 # Hello 👋, I'm Tinku
----
-### **Technologies I use and love**
+
+### **Technologies I use and love 💚💙**
 ---
 
 | Languages | Frameworks  | Additionals things I use and do      |
