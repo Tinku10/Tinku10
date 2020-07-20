@@ -1,4 +1,4 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTinku10%2Fhit-counter)
+![Profile Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTinku10%2Fhit-counter)
 # Hello 👋, I'm Tinku
 ---
 ### **Technologies I use and love**
@@ -16,9 +16,10 @@
 
 ---
 
-🔭 I’m currently working on ...Drizzle: A dictionary, reinvented
+- 🔭 I’m currently working on an app called Drizzle
+- 👨‍👨‍👦 Love to colaborate on any awesome idea
 
 ```python
   if youWantToKnowMore:
-    print('Email is on left')
+    print('My email ID is on left')
 ```
