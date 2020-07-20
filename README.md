@@ -15,10 +15,8 @@
 | CSS       |             |                                      |  
 <br>
 
-- 🔭 I’m currently working on an app called Drizzle
-- 👨‍👨‍👦 Love to colaborate on any awesome idea
-- 🔭 I’m currently working on an app called Drizzle
-- 👨‍👨‍👦 Love to colaborate on any awesome idea
+- 🔭 I’m currently working on an app called Drizzle. Coming to Google Play store soon..
+- 👨‍👨‍👦 I would love to colaborate on any awesome idea.
 - 📮 Ways to reach me
   - Here is my [email](<tinku.kvs@gmail.com>) address.
   - Here is my [LinkedIn](https://www.linkedin.com/in/tinkumonikalita/) if you want to connect with me there. But I rarely use it.
