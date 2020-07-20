@@ -1,17 +1,24 @@
-### Hi there 👋
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTinku10%2Fhit-counter)
+# Hello 👋, I'm Tinku
+---
+### **Technologies I use and love**
+---
 
-<img src="/Tinku10/Tinku10/blob/master/activity.svg" height="400" width="400">
-<!--
-<!-- **Tinku10/Tinku10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+| Languages | Frameworks  | Additionals things I use and do      |
+|-----------|-------------|--------------------------------------|
+| Python    | Vue.js      | Competitive Programming              |
+| Javascript| Flutter     | Blender (right now I'm not using it) | 
+| Java      | Laravel     | GraphQL (it's awesome)               |
+| C/C++     | Express.js  | REST                                 |
+| Dart      | Processing  | Firebase (very exiting)              |
+| HTML      |             |                                      |
+| CSS       |             |                                      |  
 
-<!--Here are some ideas to get you started: -->
+---
 
-- 🔭 I’m currently working on ...Drizzle: A dictionary, reinvented
-- 🌱 I’m currently learning ...Flutter
-- 👯 I’m looking to collaborate on ...any awesome ideas
-- 💬 Ask me about ...Vue.js | Flutter | Laravel | Node.js | Express | GraphQL | REST | OR any other fun stuff
-- 📫 How to reach me: ...Email listed on left
-<!-- 🤔 I’m looking for help with ... -->
-<!-- 😄 Pronouns: ... -->
-<!-- ⚡ Fun fact: ... -->
+🔭 I’m currently working on ...Drizzle: A dictionary, reinvented
 
+```python
+  if youWantToKnowMore:
+    print('Email is on left')
+```
