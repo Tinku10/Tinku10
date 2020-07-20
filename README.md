@@ -10,16 +10,16 @@
 | Javascript| Flutter     | Blender (right now I'm not using it) | 
 | Java      | Laravel     | GraphQL (it's awesome)               |
 | C/C++     | Express.js  | REST                                 |
-| Dart      | Processing  | Firebase (very exiting)              |
+| Dart      | Processing  | Firebase (it's exiting)              |
 | HTML      |             |                                      |
 | CSS       |             |                                      |  
-
+<br>
 
 - 🔭 I’m currently working on an app called Drizzle
 - 👨‍👨‍👦 Love to colaborate on any awesome idea
 - 🔭 I’m currently working on an app called Drizzle
 - 👨‍👨‍👦 Love to colaborate on any awesome idea
 - 📮 Ways to reach me
-  - Here is my [email](<tinku.kvs@gmail.com>)
+  - Here is my [email](<tinku.kvs@gmail.com>) address.
   - Here is my [LinkedIn](https://www.linkedin.com/in/tinkumonikalita/) if you want to connect with me there. But I rarely use it.
   - I like to write articles on Medium. Reach [me](https://medium.com/@tinku.kvs) there.
