@@ -15,8 +15,8 @@
 | CSS       |             | MySQL                                |  
 <br>
 
-- 🔭 I’m currently working on an app called Drizzle. Coming to Google Play store soon..
-- 👨‍👨‍👦 I would love to colaborate on any awesome idea.
+- 🔭 I’m currently working on an app called Drizzle. Coming to Google Playstore soon..
+- 👨‍👨‍👦 I would love to collaborate on any awesome idea.
 - 📮 Ways to reach me
   - Here is my [email](mailto:tinku.kvs@gmail.com) address.
   - I like to write articles on Medium. Reach [me](https://medium.com/@tinku.kvs) there.
