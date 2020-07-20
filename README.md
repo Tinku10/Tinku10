@@ -18,6 +18,6 @@
 - 🔭 I’m currently working on an app called Drizzle. Coming to Google Play store soon..
 - 👨‍👨‍👦 I would love to colaborate on any awesome idea.
 - 📮 Ways to reach me
-  - Here is my [email](<tinku.kvs@gmail.com>) address.
+  - Here is my [email](mailto:tinku.kvs@gmail.com) address.
   - Here is my [LinkedIn](https://www.linkedin.com/in/tinkumonikalita/) if you want to connect with me there. But I rarely use it.
   - I like to write articles on Medium. Reach [me](https://medium.com/@tinku.kvs) there.
