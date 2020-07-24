@@ -15,7 +15,7 @@
 | CSS       |             | MySQL                                |  
 <br>
 
-- 🔭 I’m currently working on an app called Drizzle. Coming to Google Playstore soon..
+- 🔭 I’m currently working on an app called Drizzle. Availbale on [Google Play Store](https://play.google.com/store/apps/details?id=com.decipher.drizzle).
 - 👨‍👨‍👦 I would love to collaborate on any awesome idea.
 - 📮 Ways to reach me
   - Here is my [email](mailto:tinku.kvs@gmail.com) address.
