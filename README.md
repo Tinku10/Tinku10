@@ -11,8 +11,9 @@
 | Java      | Laravel     | GraphQL (it's awesome)               |
 | C/C++     | Express.js  | REST                                 |
 | Dart      | Processing  | Firebase (it's exiting)              |
-| HTML      |             | MongoDB                              |
-| CSS       |             | MySQL                                |  
+| PHP       |             | MongoDB                              |
+| HTML      |             | MySQL                                |  
+| CSS       |             |                                      |
 <br>
 
 - 🔭 I’m currently working on an app called Drizzle. Availbale on [Google Play Store](https://play.google.com/store/apps/details?id=com.decipher.drizzle).
