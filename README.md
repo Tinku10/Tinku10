@@ -6,14 +6,14 @@
 
 | Languages                                             | Frameworks                           | Additionals things I use and do      |
 |-------------------------------------------------------|--------------------------------------|--------------------------------------|
-|![Python](/logos/python.png) Python                    |![vue](/logos/vue.png) Vue.js         | Competitive Programming              |
-|![JS](/logos/javascript.png) Javascript                |![flutter](/logos/flutter.png) Flutter|<img src="logos/blender.png" height="24" width="24"> Blender (right now I'm not using it) | 
-|![Java](/logos/java.png) Java                          |![laravel](/logos/laravel.png) Laravel|![graphql](/logos/icons8-graphql-24.png)GraphQL (it's awesome)               |
-|![cpp](/logos/c.png) C/C++                             | Express.js                           | REST                                 |
-|<img src="logos/dart.png" height="24" width="24"> Dart | Processing                           |![firebase](/logos/icons8-firebase-24.png) Firebase (it's exiting)              |
-|![PHP](/logos/php.png) PHP                             |                                      |![mongodb](/logos/mongodb.png) MongoDB                              |
-|![html](/logos/html.png) HTML                          |                                      |![mysql](/logos/mysql.png) MySQL                                |  
-|![css](/logos/css.png) CSS                             |                                      |                                      |
+|![Python](/Tinku10/Tinku10/logos/python.png) Python                    |![vue](/Tinku10/Tinku10/logos/vue.png) Vue.js         | Competitive Programming              |
+|![JS](/Tinku10/Tinku10/logos/javascript.png) Javascript                |![flutter](/Tinku10/Tinku10/logos/flutter.png) Flutter|<img src="/Tinku10/Tinku10/logos/blender.png" height="24" width="24"> Blender (right now I'm not using it) | 
+|![Java](/Tinku10/Tinku10/logos/java.png) Java                          |![laravel](/Tinku10/Tinku10/logos/laravel.png) Laravel|![graphql](/Tinku10/Tinku10/logos/icons8-graphql-24.png)GraphQL (it's awesome)               |
+|![cpp](/Tinku10/Tinku10//logos/c.png) C/C++                             | Express.js                           | REST                                 |
+|<img src="/Tinku10/Tinku10/logos/dart.png" height="24" width="24"> Dart | Processing                           |![firebase](/Tinku10/Tinku10/logos/icons8-firebase-24.png) Firebase (it's exiting)              |
+|![PHP](/Tinku10/Tinku10/logos/php.png) PHP                             |                                      |![mongodb](/Tinku10/Tinku10/logos/mongodb.png) MongoDB                              |
+|![html](/Tinku10/Tinku10/logos/html.png) HTML                          |                                      |![mysql](/Tinku10/Tinku10/logos/mysql.png) MySQL                                |  
+|![css](/Tinku10/Tinku10/logos/css.png) CSS                             |                                      |                                      |
 <br>
 
 - 🔭 I’m currently working on an app called Drizzle. Availbale on [Google Play Store](https://play.google.com/store/apps/details?id=com.decipher.drizzle).
