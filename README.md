@@ -4,16 +4,16 @@
 #### **Technologies I use and love 💚💙**
 
 
-| Languages | Frameworks  | Additionals things I use and do      |
-|-----------|-------------|--------------------------------------|
-| Python    | Vue.js      | Competitive Programming              |
-| Javascript| Flutter     | Blender (right now I'm not using it) | 
-| Java      | Laravel     | GraphQL (it's awesome)               |
-| C/C++     | Express.js  | REST                                 |
-| Dart      | Processing  | Firebase (it's exiting)              |
-| PHP       |             | MongoDB                              |
-| HTML      |             | MySQL                                |  
-| CSS       |             |                                      |
+| Languages                             | Frameworks  | Additionals things I use and do      |
+|---------------------------------------|-------------|--------------------------------------|
+|![Python](/logos/python.png) Python    | Vue.js      | Competitive Programming              |
+|![JS](/logos/javascript.png) Javascript| Flutter     | Blender (right now I'm not using it) | 
+|![Java](/logos/java.png) Java          | Laravel     | GraphQL (it's awesome)               |
+|![cpp](/logos/c.png)  C/C++            | Express.js  | REST                                 |
+| Dart                                  | Processing  | Firebase (it's exiting)              |
+|![PHP](/logos/php.png) PHP             |             | MongoDB                              |
+|![html](/logos/html.png) HTML          |             | MySQL                                |  
+|![css](/logos/css.png) CSS             |             |                                      |
 <br>
 
 - 🔭 I’m currently working on an app called Drizzle. Availbale on [Google Play Store](https://play.google.com/store/apps/details?id=com.decipher.drizzle).
