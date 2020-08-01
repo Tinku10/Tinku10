@@ -4,16 +4,16 @@
 #### **Technologies I use and love 💚💙**
 
 
-| Languages                                             | Frameworks                           | Additionals things I use and do      |
-|-------------------------------------------------------|--------------------------------------|--------------------------------------|
-|![Python](/Tinku10/Tinku10/tree/master/logos/python.png) Python                    |![vue](/Tinku10/Tinku10/tree/master/logos/vue.png) Vue.js         | Competitive Programming              |
-|![JS](/Tinku10/Tinku10/tree/master/logos/javascript.png) Javascript                |![flutter](/Tinku10/Tinku10/tree/master/logos/flutter.png) Flutter|<img src="/Tinku10/Tinku10/tree/master/logos/blender.png" height="24" width="24"> Blender (right now I'm not using it) | 
-|![Java](/Tinku10/Tinku10/tree/master/logos/java.png) Java                          |![laravel](/Tinku10/Tinku10/tree/master/logos/laravel.png) Laravel|![graphql](/Tinku10/Tinku10/tree/master/logos/icons8-graphql-24.png)GraphQL (it's awesome)               |
-|![cpp](/Tinku10/Tinku10/tree/master/logos/c.png) C/C++                             | Express.js                           | REST                                 |
-|<img src="/Tinku10/Tinku10/tree/master/logos/dart.png" height="24" width="24"> Dart | Processing                           |![firebase](/Tinku10/Tinku10/tree/master/logos/icons8-firebase-24.png) Firebase (it's exiting)              |
-|![PHP](/Tinku10/Tinku10/tree/master/logos/php.png) PHP                             |                                      |![mongodb](/Tinku10/Tinku10/tree/master/logos/mongodb.png) MongoDB                              |
-|![html](/Tinku10/Tinku10/tree/master/logos/html.png) HTML                          |                                      |![mysql](/Tinku10/Tinku10/tree/master/logos/mysql.png) MySQL                                |  
-|![css](/Tinku10/Tinku10/tree/master/logos/css.png) CSS                             |                                      |                                      |
+| Languages | Frameworks  | Additionals things I use and do      |
+|-----------|-------------|--------------------------------------|
+| Python    | Vue.js      | Competitive Programming              |
+| Javascript| Flutter     | Blender (right now I'm not using it) | 
+| Java      | Laravel     | GraphQL (it's awesome)               |
+| C/C++     | Express.js  | REST                                 |
+| Dart      | Processing  | Firebase (very exiting)              |
+| PHP       |             | MongoDB                              |
+| HTML      |             | MySQL                                |
+| CSS       |             |                                      |   
 <br>
 
 - 🔭 I’m currently working on an app called Drizzle. Availbale on [Google Play Store](https://play.google.com/store/apps/details?id=com.decipher.drizzle).
