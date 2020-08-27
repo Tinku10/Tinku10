@@ -7,9 +7,9 @@
 | Languages | Frameworks  | Additionals things I use and do      |
 |-----------|-------------|--------------------------------------|
 | Python    | Vue.js      | Competitive Programming              |
-| Javascript| Flutter     | Blender (right now I'm not using it) | 
-| Java      | Laravel     | GraphQL (it's awesome)               |
-| C/C++     | Express.js  | REST                                 |
+| C/C++     | Flutter     | Blender (right now I'm not using it) | 
+| Javascript| Laravel     | GraphQL (it's awesome)               |
+| Java      | Express.js  | REST                                 |
 | Dart      | Processing  | Firebase (very exiting)              |
 | PHP       |             | MongoDB                              |
 | HTML      |             | MySQL                                |
