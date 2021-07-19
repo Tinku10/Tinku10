@@ -1,7 +1,11 @@
 <!-- Profile Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTinku10%2Fhit-counter) -->
-#### *Hi! 👋, I'm Tinku. It's great to see you here*
-___
+## **Hi 👋!**
+<!-- ___ -->
+<br>
 
+I'm Tinku Kalita. Here is a brief introduction about some of the things I'm working on and things I'm into.
+
+<br>
 
 ##### Some of the languages I use(d)
 ![C++](https://img.shields.io/badge/C%2B%2B-%20-blue)
@@ -12,6 +16,7 @@ ___
 ![HTML](https://img.shields.io/badge/HTML-%20-orange)
 ![CSS](https://img.shields.io/badge/CSS-%20-blue)
 ![PHP](https://img.shields.io/badge/PHP-%20-violet)
+![Lua](https://img.shields.io/badge/Lua-%20-purple)
 
 ##### Some of the frameworks I have worked with
 ![Vue.js](https://img.shields.io/badge/Vue.js-%20-brightgreen)
