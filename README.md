@@ -44,7 +44,6 @@ I'm Tinku Kalita. Here is a brief introduction about some of the things I'm work
 
 ##### Working on`![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 
 
-- My personal website which will be up soon.
 - NeoVim config I'm calling [LightNVim](https://github.com/Tinku10/LightNvim) pronounced ```lighten-vim```
 
  
@@ -52,6 +51,7 @@ I'm Tinku Kalita. Here is a brief introduction about some of the things I'm work
 <br>
 
 ##### Ways to reach me
+ - Say hi using the contact form on my personal website [tinkukalita.netlify.app](https://tinkukalita.netlify.app).
  - Here is my [email](mailto:tinku.kvs@gmail.com) address.
  - I like to write articles on Medium. Reach [me](https://medium.com/@tinku.kvs) there.
  - Here is my [LinkedIn](https://www.linkedin.com/in/tinkumonikalita/) if you want to connect with me there( I don't use it very often ).
