@@ -40,13 +40,6 @@ I'm Tinku Kalita. Here is a brief introduction about some of the things I'm work
 ![Font](https://img.shields.io/badge/Font-%20JetBrains%20Mono-violet)
 ![Terminal](https://img.shields.io/badge/Terminal-%20Kitty-lightblue)
 
-<br>
-
-##### Working on`![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 
-
-- NeoVim config I'm calling [LightNVim](https://github.com/Tinku10/LightNvim) pronounced ```lighten-vim```
-
- 
 
 <br>
 
@@ -54,7 +47,7 @@ I'm Tinku Kalita. Here is a brief introduction about some of the things I'm work
  - Say hi using the contact form on my personal website [tinkukalita.netlify.app](https://tinkukalita.netlify.app).
  - Here is my [email](mailto:tinku.kvs@gmail.com) address.
  - I like to write articles on Medium. Reach [me](https://medium.com/@tinku.kvs) there.
- - Here is my [LinkedIn](https://www.linkedin.com/in/tinkumonikalita/) if you want to connect with me there( I don't use it very often ).
+ - Here is my [LinkedIn](https://www.linkedin.com/in/tinkumonikalita/) if you want to connect with me there.
   
 <!-- --- -->
 <br>
