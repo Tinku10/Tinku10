@@ -1,5 +1,8 @@
-<!-- Profile Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTinku10%2Fhit-counter) -->
-**Hi!**
+## Good seeing you here ✧˖°.
 
-I'm Tinku. You can reach me through my [website](https://tinkukalita.netlify.app), or connect me via [LinkedIn](https://www.linkedin.com/in/tinkumonikalita/), which I have started using these days.
+I'm Tinku. I am a software engineer, mostly self-thought. I didn't know I enjoyed computers. Heck, I didn't even know what was taught in a computer class back in my school days, and always thought whatever that was would be *boring (for a lack of better word)*.
+
+Now, almost half a decade later, I am working passionately in this domain. I am very enthusiastic about the computer fundamentals that led me to explore much of what I know today. Quite interesting how your belief changes over time. It's fascinating how we can achieve our vision quite *"easily"* in this domain, contrary to the other fields. Imagination is really the limit here. I believe that we can stretch quite a long road ahead of us with a car filled with fun and imagination.
+
+Anyway, go on, and explore some of the work I have done here. You can expect some *fresh-out-of-the-oven* stuff from time to time. But the stuff lying here is nicely refrigerated too!
   
